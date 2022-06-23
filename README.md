@@ -7,4 +7,4 @@ Easy: uses random module to fill blank spots randomly
 Impossible: uses minimax algorithm
 
 
-script uses python version 3.10
+written with python version 3.10
